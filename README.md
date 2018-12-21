@@ -12,7 +12,7 @@ securing it from a number of attack vectors, installing and configuring a databa
 #### 2. Access VM using SSH
   * Download the private key from Udacity to your local machine.
   * use the below command to connect.
-  * ssh -i <path of the priviatekey> grader@13.233.200.38 -p 2200  
+  * ssh -i Privatesshkey grader@13.233.200.38 -p 2200  
 
 #### 3. Restart Apache if required to launch the app
 
